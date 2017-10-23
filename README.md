@@ -37,4 +37,4 @@ $vk->authorize("offline,email");
 Пример использования виджета: [Пример использования блока комментариев](http://xino.h1n.ru/vk_comments)
 
 ## Постинг на стену
-Пример кода создания посто на стене пользователя находится в папке [**Wall posting**](https://github.com/NesterukSergey/VK/tree/master/Wall%20posting)
+Пример кода создания поста на стене пользователя находится в папке [**Wall posting**](https://github.com/NesterukSergey/VK/tree/master/Wall%20posting)
